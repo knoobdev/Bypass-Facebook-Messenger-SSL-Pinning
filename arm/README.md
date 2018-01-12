@@ -15,13 +15,13 @@ Replace the libcoldstart.so file in **/data/data/com.facebook.orca/lib-xzs**
 
 We need to patch **0x0025B24C** and **0x0025B24E**:
 
-![before_patching](https://raw.githubusercontent.com/knoobdev/Bypass-Facebook-Messenger-SLL-Pinning/master/arm/before_patch.jpg?54119)
+![before_patching](https://raw.githubusercontent.com/knoobdev/Bypass-Facebook-Messenger-SSL-Pinning/master/arm/before_patch.jpg?54119)
 
 
 After patching these offsets to **0xB1C4** and **0xB948**, patched lib should be like this:
 
 
-![after_patching](https://raw.githubusercontent.com/knoobdev/Bypass-Facebook-Messenger-SLL-Pinning/master/arm/after_patch.jpg?54119)
+![after_patching](https://raw.githubusercontent.com/knoobdev/Bypass-Facebook-Messenger-SSL-Pinning/master/arm/after_patch.jpg?54119)
 
 ---
 
