@@ -1,5 +1,5 @@
 # Bypass Facebook Messenger SSL Pinning (REQUIRE ROOTED)
-Bypassing Facebook Messenger SSL pinning for version 148.0.0.20.381 | arm | January 9, 2018
+Bypassing Facebook Messenger SSL pinning for version 188.0.0.33.100 | arm | November 1, 2018
 [Download Link](https://www.apkmirror.com/apk/facebook-2/messenger/messenger-148-0-0-20-381-release/facebook-messenger-148-0-0-20-381-android-apk-download/)
 
 
